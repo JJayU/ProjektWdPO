@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "args": ["-p", "./data_scaled", "-o", "./results.json"]
+            "args": ["-p", "./data", "-o", "./results.json"]
         }
     ]
 }
